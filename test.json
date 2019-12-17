@@ -1,0 +1,38 @@
+{
+  "Super-Man": {
+    "name": "Super-Man",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar00.png",
+    "isTaken": false,
+    "inCall": false
+  },
+  "Iron-Man": {
+    "name": "Iron-Man",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar05.png",
+    "isTaken": false,
+    "inCall": false
+  },
+  "Bat-Man": {
+    "name": "Bat-Man",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar02.png",
+    "isTaken": false,
+    "inCall": false
+  },
+  "Wonder-Woman": {
+    "name": "Wonder-Woman",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar01.png",
+    "isTaken": false,
+    "inCall": false
+  },
+  "Black-Widow": {
+    "name": "Black-Widow",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar07.png",
+    "isTaken": false,
+    "inCall": false
+  },
+  "Elektra": {
+    "name": "Elektra",
+    "avatar": "https://superherotar.framiq.com/assets/examples/superherotar06.png",
+    "isTaken": false,
+    "inCall": false
+  }
+}
